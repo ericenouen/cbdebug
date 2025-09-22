@@ -1,6 +1,6 @@
 <h1 align="center">
-  Debugging Concept Bottlenecks through Intervention:<br>
-  Shortcut Removal and Retraining
+  Debugging Concept Bottleneck Models<br>
+  through Removal and Retraining
 </h1>
 
 <p align="center">
