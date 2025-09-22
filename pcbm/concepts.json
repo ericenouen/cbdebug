@@ -1,0 +1,47 @@
+{
+  "Salamander": [
+    "lake",
+    "redness",
+    "freckled"
+  ],
+  "Turtle": [],
+  "Lizard": [],
+  "Snake": [],
+  "Spider": [],
+  "Grouse": [],
+  "Parrot": [
+    "bird"
+  ],
+  "Crab": [
+    "harbor",
+    "sea"
+  ],
+  "Dog": [
+    "granite",
+    "paisley",
+    "horse"
+  ],
+  "Wolf": [
+    "muzzle",
+    "pack"
+  ],
+  "Fox": [],
+  "Domestic cat": [
+    "stripes"
+  ],
+  "Bear": [
+    "blackness",
+    "cow"
+  ],
+  "Beetle": [],
+  "Butterfly": [],
+  "Ape": [
+    "bamboo",
+    "canopy",
+    "palm"
+  ],
+  "Monkey": [
+    "cabinet",
+    "minibike"
+  ]
+}
