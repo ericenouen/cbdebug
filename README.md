@@ -19,7 +19,7 @@ This is the official repository for our work, [CBDebug](https://ericenouen.githu
 @article{enouendebugging,
   title={Debugging Concept Bottleneck Models through Removal and Retraining},
   author={Enouen, Eric and Galhotra, Sainyam},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2509.21385},
   year={2025}
 }
 ```
